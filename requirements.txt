@@ -1,0 +1,10 @@
+Pillow
+fpdf2
+pandas
+numpy
+scikit-learn
+matplotlib
+requests
+pyzbar
+pyttsx3
+chardet>=4.0.0
