@@ -1,0 +1,101 @@
+Name,Description,Category,Manufacturer,Barcode,Price,Cost,Stock,Quantity,Expiry Date,Prescription Required
+Ibuprofen 702mg,Ibuprofen 702mg is used for treatment of a medical condition.,Capsule,Zydus Cadila,423630082504,112.9,57.27,412,9,16/01/28,Yes
+Azithromycin 528mg,Azithromycin 528mg is used for treatment of a medical condition.,Injection,Dr. Reddy's,195273888293,258.25,205.46,328,20,17/01/28,Yes
+Glibenclamide 294mg,Glibenclamide 294mg is used for treatment of a medical condition.,Ointment,Zydus Cadila,320188564171,152.26,96.5,328,22,18/01/28,Yes
+Glibenclamide 585mg,Glibenclamide 585mg is used for treatment of a medical condition.,Tablet,Zydus Cadila,812693557888,151.23,97.55,21,18,19/01/28,No
+Azithromycin 376mg,Azithromycin 376mg is used for treatment of a medical condition.,Injection,Zydus Cadila,250755118205,251.83,148.18,133,22,20/01/28,Yes
+Omeprazole 385mg,Omeprazole 385mg is used for treatment of a medical condition.,Ointment,Torrent Pharma,406546120786,359.55,181.55,79,2,21/01/28,Yes
+Ciprofloxacin 653mg,Ciprofloxacin 653mg is used for treatment of a medical condition.,Injection,Zydus Cadila,920621546359,73.46,46.64,332,21,22/01/28,No
+Clopidogrel 699mg,Clopidogrel 699mg is used for treatment of a medical condition.,Capsule,Cipla,291067348765,256.32,191.77,36,25,23/01/28,Yes
+Glibenclamide 447mg,Glibenclamide 447mg is used for treatment of a medical condition.,Syrup,Lupin,736787225220,272.6,178.85,423,23,24/01/28,No
+Doxycycline 288mg,Doxycycline 288mg is used for treatment of a medical condition.,Injection,Lupin,701209502119,336.07,242.31,342,28,25/01/28,Yes
+Azithromycin 338mg,Azithromycin 338mg is used for treatment of a medical condition.,Syrup,Dr. Reddy's,928841446241,254.18,212.66,497,26,26/01/28,No
+Cetirizine 352mg,Cetirizine 352mg is used for treatment of a medical condition.,Syrup,Lupin,340116551358,289.65,221.16,188,5,27/01/28,No
+Pantoprazole 582mg,Pantoprazole 582mg is used for treatment of a medical condition.,Syrup,Dr. Reddy's,892445100519,351.5,229.18,83,24,28/01/28,No
+Amlodipine 211mg,Amlodipine 211mg is used for treatment of a medical condition.,Injection,Cipla,185586272521,113.48,76.68,144,29,29/01/28,Yes
+Ibuprofen 726mg,Ibuprofen 726mg is used for treatment of a medical condition.,Ointment,Dr. Reddy's,752034198189,163.55,94.96,114,12,30/01/28,Yes
+Ibuprofen 576mg,Ibuprofen 576mg is used for treatment of a medical condition.,Injection,Dr. Reddy's,374397564884,347.09,300.36,189,8,31/01/28,No
+Glibenclamide 623mg,Glibenclamide 623mg is used for treatment of a medical condition.,Ointment,Sun Pharma,443782699375,231.63,129.94,25,15,01/02/28,No
+Paracetamol 760mg,Paracetamol 760mg is used for treatment of a medical condition.,Capsule,Sun Pharma,194534710892,408.13,314.59,332,18,02/02/28,Yes
+Metformin 819mg,Metformin 819mg is used for treatment of a medical condition.,Tablet,Lupin,607911034663,116.28,78.76,365,6,03/02/28,Yes
+Hydrochlorothiazide 619mg,Hydrochlorothiazide 619mg is used for treatment of a medical condition.,Syrup,Zydus Cadila,701112389033,44.46,26.31,433,6,04/02/28,No
+Furosemide 997mg,Furosemide 997mg is used for treatment of a medical condition.,Tablet,Lupin,759616433289,233.63,121.66,334,6,05/02/28,Yes
+Losartan 343mg,Losartan 343mg is used for treatment of a medical condition.,Ointment,Cipla,886895584399,151.27,130.7,283,18,06/02/28,Yes
+Simvastatin 965mg,Simvastatin 965mg is used for treatment of a medical condition.,Capsule,Zydus Cadila,427163881572,472.11,398.47,269,4,07/02/28,No
+Glibenclamide 680mg,Glibenclamide 680mg is used for treatment of a medical condition.,Ointment,Dr. Reddy's,890712747651,475.91,269.46,406,4,08/02/28,Yes
+Omeprazole 463mg,Omeprazole 463mg is used for treatment of a medical condition.,Capsule,Torrent Pharma,650391102996,94.64,76.72,391,3,09/02/28,Yes
+Amoxicillin 854mg,Amoxicillin 854mg is used for treatment of a medical condition.,Injection,Cipla,303900597648,262.29,164.39,71,10,10/02/28,Yes
+Ibuprofen 316mg,Ibuprofen 316mg is used for treatment of a medical condition.,Tablet,Lupin,311191117653,143.75,95.43,71,5,11/02/28,Yes
+Simvastatin 378mg,Simvastatin 378mg is used for treatment of a medical condition.,Ointment,Zydus Cadila,776912148740,339.66,180,232,8,12/02/28,Yes
+Simvastatin 347mg,Simvastatin 347mg is used for treatment of a medical condition.,Injection,Zydus Cadila,607991606989,317.3,188.18,71,28,13/02/28,Yes
+Levothyroxine 710mg,Levothyroxine 710mg is used for treatment of a medical condition.,Tablet,Sun Pharma,592855571175,244.13,147.76,87,9,14/02/28,Yes
+Paracetamol 548mg,Paracetamol 548mg is used for treatment of a medical condition.,Tablet,Cipla,311036436205,352.12,289.21,62,7,15/02/28,Yes
+Hydrochlorothiazide 728mg,Hydrochlorothiazide 728mg is used for treatment of a medical condition.,Tablet,Dr. Reddy's,289811569718,212.31,107.83,480,18,16/02/28,Yes
+Diclofenac 391mg,Diclofenac 391mg is used for treatment of a medical condition.,Injection,Dr. Reddy's,227727994595,389.45,336.32,449,23,17/02/28,No
+Cetirizine 463mg,Cetirizine 463mg is used for treatment of a medical condition.,Tablet,Lupin,867645094004,405.78,336.24,395,10,18/02/28,Yes
+Azithromycin 399mg,Azithromycin 399mg is used for treatment of a medical condition.,Capsule,Dr. Reddy's,581120214932,248.85,142.19,188,9,19/02/28,Yes
+Glibenclamide 388mg,Glibenclamide 388mg is used for treatment of a medical condition.,Tablet,Cipla,893817382489,303.2,248.96,368,9,20/02/28,No
+Doxycycline 945mg,Doxycycline 945mg is used for treatment of a medical condition.,Capsule,Cipla,185723111253,186.48,122.96,442,14,21/02/28,Yes
+Azithromycin 344mg,Azithromycin 344mg is used for treatment of a medical condition.,Syrup,Sun Pharma,609368646763,313.38,247.51,160,17,22/02/28,No
+Paracetamol 711mg,Paracetamol 711mg is used for treatment of a medical condition.,Syrup,Cipla,198512257965,79.55,60,73,24,23/02/28,No
+Amlodipine 804mg,Amlodipine 804mg is used for treatment of a medical condition.,Tablet,Lupin,323947196210,295.57,204.5,483,23,24/02/28,Yes
+Ciprofloxacin 428mg,Ciprofloxacin 428mg is used for treatment of a medical condition.,Capsule,Zydus Cadila,854095972896,474.14,297.75,420,23,25/02/28,No
+Omeprazole 376mg,Omeprazole 376mg is used for treatment of a medical condition.,Injection,Torrent Pharma,479856687282,495.94,371.6,216,10,26/02/28,Yes
+Cetirizine 521mg,Cetirizine 521mg is used for treatment of a medical condition.,Ointment,Cipla,402775924615,168.07,131.28,371,5,27/02/28,Yes
+Clopidogrel 623mg,Clopidogrel 623mg is used for treatment of a medical condition.,Capsule,Zydus Cadila,600523017888,453.56,276.97,40,30,28/02/28,No
+Doxycycline 230mg,Doxycycline 230mg is used for treatment of a medical condition.,Syrup,Torrent Pharma,718212915576,174.15,135.14,420,11,29/02/28,No
+Ciprofloxacin 632mg,Ciprofloxacin 632mg is used for treatment of a medical condition.,Tablet,Lupin,131224216383,496.95,331.52,349,10,01/03/28,No
+Diclofenac 990mg,Diclofenac 990mg is used for treatment of a medical condition.,Syrup,Lupin,416204369321,89.48,66.84,276,25,02/03/28,No
+Pantoprazole 204mg,Pantoprazole 204mg is used for treatment of a medical condition.,Ointment,Sun Pharma,481673882522,253.76,174.59,366,14,03/03/28,No
+Simvastatin 353mg,Simvastatin 353mg is used for treatment of a medical condition.,Ointment,Dr. Reddy's,816167456466,436.21,233.5,54,25,04/03/28,Yes
+Losartan 709mg,Losartan 709mg is used for treatment of a medical condition.,Ointment,Sun Pharma,139999419142,79.22,41.32,139,25,05/03/28,No
+Atorvastatin 607mg,Atorvastatin 607mg is used for treatment of a medical condition.,Ointment,Dr. Reddy's,195950012291,48.17,35.23,81,14,06/03/28,No
+Pantoprazole 628mg,Pantoprazole 628mg is used for treatment of a medical condition.,Injection,Lupin,155396328421,175.69,141.04,234,15,07/03/28,No
+Diclofenac 988mg,Diclofenac 988mg is used for treatment of a medical condition.,Ointment,Zydus Cadila,559605006306,163.56,86.49,89,14,08/03/28,No
+Atorvastatin 842mg,Atorvastatin 842mg is used for treatment of a medical condition.,Syrup,Zydus Cadila,516724481558,195.98,105.34,452,5,09/03/28,Yes
+Losartan 447mg,Losartan 447mg is used for treatment of a medical condition.,Injection,Cipla,375955485410,426.65,310.3,302,29,10/03/28,No
+Omeprazole 459mg,Omeprazole 459mg is used for treatment of a medical condition.,Tablet,Sun Pharma,436273734312,463.82,313.92,388,4,11/03/28,Yes
+Cetirizine 403mg,Cetirizine 403mg is used for treatment of a medical condition.,Tablet,Cipla,484493832264,157.84,121.25,260,22,12/03/28,Yes
+Atorvastatin 664mg,Atorvastatin 664mg is used for treatment of a medical condition.,Injection,Cipla,572430625439,136.8,103.25,67,13,13/03/28,No
+Doxycycline 790mg,Doxycycline 790mg is used for treatment of a medical condition.,Tablet,Lupin,911406393327,246.86,131.8,273,17,14/03/28,No
+Levothyroxine 154mg,Levothyroxine 154mg is used for treatment of a medical condition.,Tablet,Dr. Reddy's,540434915047,464.11,320.56,113,22,15/03/28,Yes
+Levothyroxine 794mg,Levothyroxine 794mg is used for treatment of a medical condition.,Ointment,Torrent Pharma,527251871096,473.02,387.3,125,29,16/03/28,No
+Amlodipine 666mg,Amlodipine 666mg is used for treatment of a medical condition.,Tablet,Lupin,307986309603,439.22,391.53,168,12,17/03/28,No
+Levothyroxine 394mg,Levothyroxine 394mg is used for treatment of a medical condition.,Ointment,Zydus Cadila,135465702360,408.82,317.93,322,5,18/03/28,No
+Ciprofloxacin 532mg,Ciprofloxacin 532mg is used for treatment of a medical condition.,Ointment,Lupin,383765391588,361.99,184.55,183,9,19/03/28,No
+Paracetamol 293mg,Paracetamol 293mg is used for treatment of a medical condition.,Injection,Lupin,724936564190,207.25,179.52,397,13,20/03/28,No
+Ibuprofen 426mg,Ibuprofen 426mg is used for treatment of a medical condition.,Injection,Zydus Cadila,668858224776,332.6,280.28,410,19,21/03/28,Yes
+Paracetamol 544mg,Paracetamol 544mg is used for treatment of a medical condition.,Syrup,Lupin,127754192066,329.82,271.72,229,1,22/03/28,No
+Ciprofloxacin 314mg,Ciprofloxacin 314mg is used for treatment of a medical condition.,Capsule,Dr. Reddy's,268442946525,189.97,111.52,230,2,23/03/28,No
+Metformin 329mg,Metformin 329mg is used for treatment of a medical condition.,Injection,Cipla,125770945791,303.95,193.24,64,16,24/03/28,No
+Simvastatin 806mg,Simvastatin 806mg is used for treatment of a medical condition.,Capsule,Torrent Pharma,607963322348,53.77,42.35,229,11,25/03/28,Yes
+Pantoprazole 370mg,Pantoprazole 370mg is used for treatment of a medical condition.,Capsule,Sun Pharma,695624794052,129.83,84.72,221,4,26/03/28,Yes
+Omeprazole 996mg,Omeprazole 996mg is used for treatment of a medical condition.,Syrup,Zydus Cadila,576028550539,175.79,109.9,363,29,27/03/28,Yes
+Amoxicillin 806mg,Amoxicillin 806mg is used for treatment of a medical condition.,Capsule,Cipla,365215731689,107.11,69.65,109,12,28/03/28,No
+Hydrochlorothiazide 865mg,Hydrochlorothiazide 865mg is used for treatment of a medical condition.,Tablet,Torrent Pharma,300461209340,307.62,237.1,361,30,29/03/28,No
+Paracetamol 654mg,Paracetamol 654mg is used for treatment of a medical condition.,Capsule,Dr. Reddy's,608829369982,480.71,398.91,351,30,30/03/28,No
+Cetirizine 938mg,Cetirizine 938mg is used for treatment of a medical condition.,Capsule,Torrent Pharma,412137930615,176.98,135.53,27,20,31/03/28,No
+Amlodipine 159mg,Amlodipine 159mg is used for treatment of a medical condition.,Capsule,Lupin,159496802894,396.01,304.19,190,11,01/04/28,No
+Simvastatin 536mg,Simvastatin 536mg is used for treatment of a medical condition.,Ointment,Lupin,832122044928,305.71,274.79,455,7,02/04/28,No
+Pantoprazole 783mg,Pantoprazole 783mg is used for treatment of a medical condition.,Tablet,Zydus Cadila,673052385690,172.33,116.65,29,20,03/04/28,Yes
+Atorvastatin 272mg,Atorvastatin 272mg is used for treatment of a medical condition.,Syrup,Dr. Reddy's,132662550130,119.19,90.86,202,24,04/04/28,No
+Hydrochlorothiazide 919mg,Hydrochlorothiazide 919mg is used for treatment of a medical condition.,Tablet,Sun Pharma,648631558972,199.46,176.4,392,17,05/04/28,Yes
+Amoxicillin 345mg,Amoxicillin 345mg is used for treatment of a medical condition.,Syrup,Dr. Reddy's,437406174137,374.23,327.07,384,14,06/04/28,No
+Paracetamol 921mg,Paracetamol 921mg is used for treatment of a medical condition.,Tablet,Zydus Cadila,719078007069,446.22,252.77,333,14,07/04/28,Yes
+Ciprofloxacin 280mg,Ciprofloxacin 280mg is used for treatment of a medical condition.,Tablet,Dr. Reddy's,312314974675,69.71,44.87,401,3,08/04/28,Yes
+Metformin 846mg,Metformin 846mg is used for treatment of a medical condition.,Tablet,Torrent Pharma,672638686188,424.6,245.18,481,15,09/04/28,No
+Amlodipine 981mg,Amlodipine 981mg is used for treatment of a medical condition.,Syrup,Dr. Reddy's,547168950498,139.46,124.87,447,18,10/04/28,No
+Glibenclamide 118mg,Glibenclamide 118mg is used for treatment of a medical condition.,Tablet,Sun Pharma,639160457722,142.6,83.57,101,19,11/04/28,Yes
+Glibenclamide 373mg,Glibenclamide 373mg is used for treatment of a medical condition.,Capsule,Lupin,651519913106,442.11,375.58,110,15,12/04/28,Yes
+Metformin 997mg,Metformin 997mg is used for treatment of a medical condition.,Syrup,Zydus Cadila,665324066866,110.46,96.36,98,1,13/04/28,Yes
+Paracetamol 927mg,Paracetamol 927mg is used for treatment of a medical condition.,Capsule,Lupin,356003761716,407.71,208.13,443,11,14/04/28,Yes
+Azithromycin 978mg,Azithromycin 978mg is used for treatment of a medical condition.,Injection,Zydus Cadila,622853201619,428.6,308.49,461,21,15/04/28,No
+Ciprofloxacin 429mg,Ciprofloxacin 429mg is used for treatment of a medical condition.,Syrup,Zydus Cadila,368776803778,340.76,175.25,488,8,16/04/28,No
+Clopidogrel 462mg,Clopidogrel 462mg is used for treatment of a medical condition.,Capsule,Dr. Reddy's,959588011454,264.77,145.83,135,28,17/04/28,No
+Clopidogrel 259mg,Clopidogrel 259mg is used for treatment of a medical condition.,Injection,Sun Pharma,745230430934,238.3,211.78,62,26,18/04/28,No
+Atorvastatin 462mg,Atorvastatin 462mg is used for treatment of a medical condition.,Ointment,Torrent Pharma,945272124424,208.06,129.1,351,10,19/04/28,Yes
+Omeprazole 918mg,Omeprazole 918mg is used for treatment of a medical condition.,Syrup,Dr. Reddy's,342870938016,209.87,131.08,378,29,20/04/28,No
+Cetirizine 887mg,Cetirizine 887mg is used for treatment of a medical condition.,Syrup,Sun Pharma,511491665543,128.29,83.97,272,11,21/04/28,No
+Diclofenac 463mg,Diclofenac 463mg is used for treatment of a medical condition.,Capsule,Lupin,770178364124,419.88,227.45,169,13,22/04/28,Yes
+Metformin 587mg,Metformin 587mg is used for treatment of a medical condition.,Ointment,Lupin,608054098975,202.29,145.37,451,28,23/04/28,Yes
+Diclofenac 681mg,Diclofenac 681mg is used for treatment of a medical condition.,Syrup,Dr. Reddy's,638096470816,92.62,56.02,214,3,24/04/28,Yes
