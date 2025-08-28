@@ -49,43 +49,49 @@ A comprehensive pharmacy management solution built with Python, Tkinter, and SQL
 
 pip install -r requirements.txt
 Run the application:
+![alt login](python-pharmacy-login.png "login")
+![alt dashboard](python-pharmacy-dashboard.png "dashboard")
+![alt inventory](python-pharmacy-inventory.png "inventory")
 
 Usage
 Login
 Default admin credentials:
-Username: admin
-Password: admin123
+`Username: admin
+Password: admin123`
 Dashboard
-The dashboard provides an overview of key metrics and quick access to all modules
-Navigation is through the sidebar menu
-Role-based access control limits functionality based on user role
-Modules
-Inventory: Add, edit, delete, and search medicines
-Sales: Process sales transactions and generate invoices
-Purchases: Record purchases from suppliers
-Customers: Manage customer information
-Suppliers: Manage supplier information
-Employees: Manage employee accounts (admin only)
-Prescriptions: Record and manage prescriptions
-Reports: Generate various reports
-Advanced Features
-AI Integration: Predict stock requirements and find alternative medicines
-n8n Integration: Connect to n8n for workflow automation
-Backup/Restore: Backup and restore your database
-Configuration
-Store Settings
-Navigate to Settings > Store Settings to configure your pharmacy details
-Upload your logo for a personalized experience
-Set your GST number for tax compliance
-AI Settings
-Configure AI features in the AI Integration section
-Train the stock prediction model with your historical data
-n8n Integration
-Set up your n8n URL and API key in the n8n Integration section
-Create workflows in n8n to automate tasks
-Developer Guide
-Project Structure
 
+- The dashboard provides an overview of key metrics and quick access to all modules
+- Navigation is through the sidebar menu
+- Role-based access control limits functionality based on user role
+
+#### Modules
+
+-Inventory: Add, edit, delete, and search medicines
+-Sales: Process sales transactions and generate invoices
+-Purchases: Record purchases from suppliers
+-Customers: Manage customer information
+-Suppliers: Manage supplier information
+-Employees: Manage employee accounts (admin only)
+-Prescriptions: Record and manage prescriptions
+-Reports: Generate various reports
+**-Advanced Features**
+-AI Integration: Predict stock requirements and find alternative medicines
+-n8n Integration: Connect to n8n for workflow automation
+-Backup/Restore: Backup and restore your database
+_Configuration_
+-Store Settings
+-Navigate to Settings > Store Settings to configure your pharmacy details
+-Upload your logo for a personalized experience
+-Set your GST number for tax compliance
+-AI Settings
+-Configure AI features in the AI Integration section
+-Train the stock prediction model with your historical data
+-n8n Integration
+-Set up your n8n URL and API key in the n8n Integration section
+-Create workflows in n8n to automate tasks
+-Developer Guide
+-Project Structure
+`
 pharmacy_management/
 ├── main.py # Entry point
 ├── database.py # SQLite database operations
@@ -104,33 +110,33 @@ pharmacy_management/
 ├── pdf_generator.py # PDF invoice generation
 ├── utils.py # Utility functions
 ├── config.py # Configuration settings
-└── requirements.txt # Python dependencies
-Database Schema
+└── requirements.txt # Python dependencies`
+_Database Schema_
 The system uses SQLite with the following main tables:
 
-users: User accounts and roles
-stores: Pharmacy store information
-medicines: Medicine inventory
-customers: Customer information
-suppliers: Supplier information
-sales: Sales transactions
-sale_items: Items sold in each transaction
-purchases: Purchase transactions
-purchase_items: Items purchased in each transaction
-prescriptions: Customer prescriptions
-prescription_items: Medicines in each prescription
-audit_log: System audit trail
-Extending the System
-Add new modules by creating new Python files and importing them in the dashboard
-Extend the database schema by modifying database.py
-Add new reports by extending the reports.py module
-Integrate with external APIs by adding new integration modules
-Support
+-users: User accounts and roles
+-stores: Pharmacy store information
+-medicines: Medicine inventory
+-customers: Customer information
+-suppliers: Supplier information
+-sales: Sales transactions
+-sale_items: Items sold in each transaction
+-purchases: Purchase transactions
+-purchase_items: Items purchased in each transaction
+-prescriptions: Customer prescriptions
+-prescription_items: Medicines in each prescription
+-audit_log: System audit trail
+-Extending the System
+-Add new modules by creating new Python files and importing them in the dashboard
+-Extend the database schema by modifying database.py
+-Add new reports by extending the reports.py module
+-Integrate with external APIs by adding new integration modules
+-Support
 For support, please contact:
 
-Email: support@pharmacymanagement.com
+`Email: support@pharmacymanagement.com
 Phone: +1-555-1234
-Documentation: https://docs.pharmacymanagement.com
+Documentation: https://docs.pharmacymanagement.com`
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
